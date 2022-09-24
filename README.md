@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/1325192.jpg)
+![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676__340.jpg)
 
 <h1 align="center">Hi 👋, I'm Gibi Alex Mathew</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
