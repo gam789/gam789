@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gam789&label=Profile%20views&color=0e75b6&style=flat" alt="gam789" /> </p>
 
-- 🔭 I’m currently working on **Covid'19 data analysis using Python**
+- 🔭 I’m currently working on **Data science related projects**
 
 - 🌱 I’m currently learning **Data Science**
 
